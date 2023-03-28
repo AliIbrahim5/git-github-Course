@@ -23,7 +23,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[Node.js](https://github.com/Tuwaiq-Academy-Training/Node.js/blob/main/README.md)|[----]|
+| الأسبوع 1| 1   |[Git-Basics](https://github.com/AliIbrahim5/Git-Basics)|[----]|
 | الأسبوع 1| 2   |[TypeScript](https://github.com/Tuwaiq-Academy-Training/TypeScript)|[Lap](Lap)|
 | الأسبوع 1| 3   |[ Express.js ](https://github.com/Tuwaiq-Academy-Training/express.js/blob/main/README.md)| [التمرين الثالث](https://2u.pw/waW4lE)|
 | الأسبوع 1| 4   |[ Json ](https://github.com/Tuwaiq-Academy-Training/json-javaScript/blob/main/README.md)| [Lap](Lap)|
