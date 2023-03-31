@@ -24,7 +24,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
 | الأسبوع 1| 1   |[Introduction-Git](https://github.com/AliIbrahim5/Introduction-Git)|[]()|
-| الأسبوع 1| 2   |[Git-Basics](https://github.com/AliIbrahim5/Git-Basics)|[Lap](https://github.com/AliIbrahim5/Git-Basics/blob/main/تمرين%20اليوم%20الاول.md)|
+| الأسبوع 1| 2   |[Git-Basics](https://github.com/AliIbrahim5/Git-Basics)|[Lab](https://github.com/AliIbrahim5/Git-Basics/blob/main/تمرين%20اليوم%20الاول.md)|
 | الأسبوع 1| 3   |[Intermediate-Git ](https://github.com/AliIbrahim5/Intermediate-Git)| []()|
 | الأسبوع 1| 4   |[ Advanced-Git  ](https://github.com/AliIbrahim5/Advanced-Git)| []()|
 | الأسبوع 1| 5   |[ Github ](https://github.com/AliIbrahim5/Github)| []()|
